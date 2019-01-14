@@ -19,6 +19,9 @@ test5
 # [.NET Core 2.1](#tab/netcore2123)
 test6
 
+[.NET Core 4.0 Preview 1](#tab/netcore40)
+test7
+
 ---
 # [MSTest](#tab/mstest)
 # [NUnit](#tab/nunit)
