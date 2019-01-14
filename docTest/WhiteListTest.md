@@ -19,9 +19,15 @@ test5
 # [.NET Core 2.1](#tab/netcore2123)
 test6
 
+[.NET Core 4.0 Preview 1](#tab/netcore40)
+test7
+
 ---
-# [.NET Core 2.2www](#tab/netcore22)
-# [.NET Core 3.0](#tab/netcore30)
-# [.NET Core 3.x](#tab/netcore3x)
+# [MSTest](#tab/mstest)
+# [NUnit](#tab/nunit)
+# [xUnit](#tab/xunit)
 # [.NET Core 3.0 Preview 1](#tab/netcore30)
+# [curl](#curl)
+# [REST](#tab/rest)
+# [Server](#tab/server)
 # [Portal](#tab/portal1)
