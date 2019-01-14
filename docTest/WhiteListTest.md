@@ -23,18 +23,18 @@ test6
 test7
 
 ---
-# [MSTest](#tab/mstest)
+# [MSTest](#tab/mstest1)
 test8
 
 # [NUnit](#tab/nunit)
 test9
 
 ---
-# [xUnit](#tab/xunit)
+# [xUnit1](#tab/xunit)
 # [.NET Core 3.0 Preview 1](#tab/netcore30)
 
 ---
 # [curl](#curl)
 # [REST](#tab/rest)
-# [Server](#tab/server)
+# [Server1](#tab/server1)
 # [Portal](#tab/portal1)
